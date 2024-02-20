@@ -8,7 +8,7 @@ public void setup()
 } 
 public void draw() 
 {   
-  background(255);   
+  background(218, 245, 247);   
   stroke(29, 84, 39);
   strokeWeight(10);
   line(320,480,320,380);   
